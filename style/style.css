@@ -1,0 +1,13 @@
+body {
+  background-color: lightblue;
+  color: white;
+  text-align: center;
+}
+
+ul {
+  list-style: square;
+}
+
+ul > li {
+  padding-bottom: 15px; 
+}
